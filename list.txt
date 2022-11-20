@@ -1,4 +1,17 @@
+# FRUITS
 Banana
 Orange
 Strawberries
 Apples
+
+# ANIMALS
+Dogs
+Cats
+Lions
+Snacke
+
+# COLORS
+Green
+Yellow
+Red
+Blue
