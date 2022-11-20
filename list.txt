@@ -17,16 +17,15 @@ Red
 Blue
 Black
 
-
-
-
-
-
-
-
-
 # Meat
 Bacon
 Lamb
 Beef
 Pork
+
+# Dairy
+Milk
+Eggs
+Butter
+Cheese
+
