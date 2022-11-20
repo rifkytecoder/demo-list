@@ -16,3 +16,9 @@ Yellow
 Red
 Blue
 Black
+
+# Dairy
+Milk
+Eggs
+Butter
+Cheese
